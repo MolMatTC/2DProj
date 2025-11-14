@@ -1,22 +1,22 @@
 $SYS
-fname='test'
-Nfrag=2
-NAtype=2
-NPath=3
-Norb=11
+fname='test' !prefix of the files from the gaussian calculation
+Nfrag=2 ! Number of fragments
+NAtype=2 !number of atom types
+NPath=3 !Number of k-paths to be sampled
+Norb=11 !Total number of orbitals  to get after the projection
 $END
 
 $FRAG
-NAFrag=60,12
-AN=1,6
-AF=5,15
-Orb_frag=1,1,1,1,1,1,1,2,2,2,2
-Orb_N=182,181,180,179,178,177,176,23,22,21,20
+NAFrag=60,12 !Number of atoms of each fragment
+AN=1,6 ! atomic number present in your system (size=NAtype)
+AF=5,15 ! Number of basis funcions for each atom, must follow the same order as AN
+Orb_frag=1,1,1,1,1,1,1,2,2,2,2 !to which fragment belong each one of the orbitals to get
+Orb_N=182,181,180,179,178,177,176,23,22,21,20 !orbitals to get numbered for the fragment (for benzene HOMO=21)
 $END
 
 $BPATH
-NK=50
-PATH=0,0,0,1,0,0,
+NK=50 !Number of k-points
+PATH=0,0,0,1,0,0,  !initial and final k points in fractional coordinates for each path
 1,0,0,1,1,0,
 1,1,0,0,0,0
 $END
