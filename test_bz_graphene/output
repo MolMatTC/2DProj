@@ -1,0 +1,164 @@
+ **********************************************************************
+                           Coupling in Gamma                           
+ **********************************************************************
+  
+ Localized Orbitals Matrix elements
+  
+Orbital 182 from fragment     1 Energy =  -0.30948E+01 eV
+Orbitals 182 and  23 from fragments     1 and     2 Couplings =   0.10092E+00 +  0.00000E+00i eV
+Orbitals 182 and  22 from fragments     1 and     2 Couplings =   0.32087E-01 +  0.00000E+00i eV
+Orbitals 182 and  21 from fragments     1 and     2 Couplings =  -0.62714E-03 +  0.00000E+00i eV
+Orbitals 182 and  20 from fragments     1 and     2 Couplings =  -0.78343E-02 +  0.00000E+00i eV
+Orbital 181 from fragment     1 Energy =  -0.31016E+01 eV
+Orbitals 181 and  23 from fragments     1 and     2 Couplings =  -0.37627E-02 +  0.00000E+00i eV
+Orbitals 181 and  22 from fragments     1 and     2 Couplings =   0.49833E-02 +  0.00000E+00i eV
+Orbitals 181 and  21 from fragments     1 and     2 Couplings =  -0.58383E-01 +  0.00000E+00i eV
+Orbitals 181 and  20 from fragments     1 and     2 Couplings =   0.25277E-01 +  0.00000E+00i eV
+Orbital 180 from fragment     1 Energy =  -0.51275E+01 eV
+Orbitals 180 and  23 from fragments     1 and     2 Couplings =  -0.41410E-01 +  0.00000E+00i eV
+Orbitals 180 and  22 from fragments     1 and     2 Couplings =   0.12973E+00 +  0.00000E+00i eV
+Orbitals 180 and  21 from fragments     1 and     2 Couplings =   0.63682E-02 +  0.00000E+00i eV
+Orbitals 180 and  20 from fragments     1 and     2 Couplings =  -0.38171E-03 +  0.00000E+00i eV
+Orbital 179 from fragment     1 Energy =  -0.51314E+01 eV
+Orbitals 179 and  23 from fragments     1 and     2 Couplings =   0.41121E-02 +  0.00000E+00i eV
+Orbitals 179 and  22 from fragments     1 and     2 Couplings =   0.67857E-02 +  0.00000E+00i eV
+Orbitals 179 and  21 from fragments     1 and     2 Couplings =   0.47479E-01 +  0.00000E+00i eV
+Orbitals 179 and  20 from fragments     1 and     2 Couplings =   0.11006E+00 +  0.00000E+00i eV
+Orbital 178 from fragment     1 Energy =  -0.56093E+01 eV
+Orbitals 178 and  23 from fragments     1 and     2 Couplings =   0.10688E-01 +  0.00000E+00i eV
+Orbitals 178 and  22 from fragments     1 and     2 Couplings =  -0.13408E-01 +  0.00000E+00i eV
+Orbitals 178 and  21 from fragments     1 and     2 Couplings =   0.12876E+00 +  0.00000E+00i eV
+Orbitals 178 and  20 from fragments     1 and     2 Couplings =  -0.56054E-01 +  0.00000E+00i eV
+Orbital 177 from fragment     1 Energy =  -0.56131E+01 eV
+Orbitals 177 and  23 from fragments     1 and     2 Couplings =   0.10976E+00 +  0.00000E+00i eV
+Orbitals 177 and  22 from fragments     1 and     2 Couplings =   0.34345E-01 +  0.00000E+00i eV
+Orbitals 177 and  21 from fragments     1 and     2 Couplings =   0.18607E-02 +  0.00000E+00i eV
+Orbitals 177 and  20 from fragments     1 and     2 Couplings =  -0.89432E-02 +  0.00000E+00i eV
+Orbital 176 from fragment     1 Energy =  -0.62525E+01 eV
+Orbitals 176 and  23 from fragments     1 and     2 Couplings =  -0.65029E-02 +  0.00000E+00i eV
+Orbitals 176 and  22 from fragments     1 and     2 Couplings =  -0.10850E-01 +  0.00000E+00i eV
+Orbitals 176 and  21 from fragments     1 and     2 Couplings =  -0.74902E-01 +  0.00000E+00i eV
+Orbitals 176 and  20 from fragments     1 and     2 Couplings =  -0.17276E+00 +  0.00000E+00i eV
+Orbitals  23 and 182 from fragments     2 and     1 Couplings =   0.10092E+00 +  0.00000E+00i eV
+Orbitals  23 and 181 from fragments     2 and     1 Couplings =  -0.37627E-02 +  0.00000E+00i eV
+Orbitals  23 and 180 from fragments     2 and     1 Couplings =  -0.41410E-01 +  0.00000E+00i eV
+Orbitals  23 and 179 from fragments     2 and     1 Couplings =   0.41121E-02 +  0.00000E+00i eV
+Orbitals  23 and 178 from fragments     2 and     1 Couplings =   0.10688E-01 +  0.00000E+00i eV
+Orbitals  23 and 177 from fragments     2 and     1 Couplings =   0.10976E+00 +  0.00000E+00i eV
+Orbitals  23 and 176 from fragments     2 and     1 Couplings =  -0.65029E-02 +  0.00000E+00i eV
+Orbital  23 from fragment     2 Energy =  -0.88700E+00 eV
+Orbitals  22 and 182 from fragments     2 and     1 Couplings =   0.32087E-01 +  0.00000E+00i eV
+Orbitals  22 and 181 from fragments     2 and     1 Couplings =   0.49833E-02 +  0.00000E+00i eV
+Orbitals  22 and 180 from fragments     2 and     1 Couplings =   0.12973E+00 +  0.00000E+00i eV
+Orbitals  22 and 179 from fragments     2 and     1 Couplings =   0.67857E-02 +  0.00000E+00i eV
+Orbitals  22 and 178 from fragments     2 and     1 Couplings =  -0.13408E-01 +  0.00000E+00i eV
+Orbitals  22 and 177 from fragments     2 and     1 Couplings =   0.34345E-01 +  0.00000E+00i eV
+Orbitals  22 and 176 from fragments     2 and     1 Couplings =  -0.10850E-01 +  0.00000E+00i eV
+Orbital  22 from fragment     2 Energy =  -0.89585E+00 eV
+Orbitals  21 and 182 from fragments     2 and     1 Couplings =  -0.62712E-03 +  0.00000E+00i eV
+Orbitals  21 and 181 from fragments     2 and     1 Couplings =  -0.58383E-01 +  0.00000E+00i eV
+Orbitals  21 and 180 from fragments     2 and     1 Couplings =   0.63681E-02 +  0.00000E+00i eV
+Orbitals  21 and 179 from fragments     2 and     1 Couplings =   0.47479E-01 +  0.00000E+00i eV
+Orbitals  21 and 178 from fragments     2 and     1 Couplings =   0.12876E+00 +  0.00000E+00i eV
+Orbitals  21 and 177 from fragments     2 and     1 Couplings =   0.18607E-02 +  0.00000E+00i eV
+Orbitals  21 and 176 from fragments     2 and     1 Couplings =  -0.74902E-01 +  0.00000E+00i eV
+Orbital  21 from fragment     2 Energy =  -0.60259E+01 eV
+Orbitals  20 and 182 from fragments     2 and     1 Couplings =  -0.78343E-02 +  0.00000E+00i eV
+Orbitals  20 and 181 from fragments     2 and     1 Couplings =   0.25277E-01 +  0.00000E+00i eV
+Orbitals  20 and 180 from fragments     2 and     1 Couplings =  -0.38171E-03 +  0.00000E+00i eV
+Orbitals  20 and 179 from fragments     2 and     1 Couplings =   0.11006E+00 +  0.00000E+00i eV
+Orbitals  20 and 178 from fragments     2 and     1 Couplings =  -0.56054E-01 +  0.00000E+00i eV
+Orbitals  20 and 177 from fragments     2 and     1 Couplings =  -0.89432E-02 +  0.00000E+00i eV
+Orbitals  20 and 176 from fragments     2 and     1 Couplings =  -0.17276E+00 +  0.00000E+00i eV
+Orbital  20 from fragment     2 Energy =  -0.60320E+01 eV
+  
+ **********************************************************************
+ **********************************************************************
+                       Projection along k-space                        
+ **********************************************************************
+  
+ Real Space translation vectors (borh):
+   23.326779299999998        0.0000000000000000        0.0000000000000000     
+   0.0000000000000000        24.241406699999999        0.0000000000000000     
+  
+ Reciprocal space lattice vectors (bohr-1):
+  0.13467751808380052        0.0000000000000000        0.0000000000000000     
+   0.0000000000000000       0.12959614018655830        0.0000000000000000     
+  
+Sampling path:     1
+Initial Path point in fractional coordinates:        0.00000E+00    0.00000E+00    0.00000E+00
+Final Path point in fractional coordinates:          0.10000E+01    0.00000E+00    0.00000E+00
+Initial Path point in reciprocal lattice (bohr-1):   0.00000E+00    0.00000E+00    0.00000E+00
+Final Path point in reciprocal lattice (bohr-1):     0.13468E+00    0.00000E+00    0.00000E+00
+  
+Sampling path:     2
+Initial Path point in fractional coordinates:        0.10000E+01    0.00000E+00    0.00000E+00
+Final Path point in fractional coordinates:          0.10000E+01    0.10000E+01    0.00000E+00
+Initial Path point in reciprocal lattice (bohr-1):   0.13468E+00    0.00000E+00    0.00000E+00
+Final Path point in reciprocal lattice (bohr-1):     0.13468E+00    0.12960E+00    0.00000E+00
+  
+Sampling path:     3
+Initial Path point in fractional coordinates:        0.10000E+01    0.10000E+01    0.00000E+00
+Final Path point in fractional coordinates:          0.00000E+00    0.00000E+00    0.00000E+00
+Initial Path point in reciprocal lattice (bohr-1):   0.13468E+00    0.12960E+00    0.00000E+00
+Final Path point in reciprocal lattice (bohr-1):     0.00000E+00    0.00000E+00    0.00000E+00
+  
+Coupling     1 Frag:     1 orb:   182 and Frag:     1 orb:   181
+Coupling     2 Frag:     1 orb:   182 and Frag:     1 orb:   180
+Coupling     3 Frag:     1 orb:   182 and Frag:     1 orb:   179
+Coupling     4 Frag:     1 orb:   182 and Frag:     1 orb:   178
+Coupling     5 Frag:     1 orb:   182 and Frag:     1 orb:   177
+Coupling     6 Frag:     1 orb:   182 and Frag:     1 orb:   176
+Coupling     7 Frag:     1 orb:   182 and Frag:     2 orb:    23
+Coupling     8 Frag:     1 orb:   182 and Frag:     2 orb:    22
+Coupling     9 Frag:     1 orb:   182 and Frag:     2 orb:    21
+Coupling    10 Frag:     1 orb:   182 and Frag:     2 orb:    20
+Coupling    11 Frag:     1 orb:   181 and Frag:     1 orb:   180
+Coupling    12 Frag:     1 orb:   181 and Frag:     1 orb:   179
+Coupling    13 Frag:     1 orb:   181 and Frag:     1 orb:   178
+Coupling    14 Frag:     1 orb:   181 and Frag:     1 orb:   177
+Coupling    15 Frag:     1 orb:   181 and Frag:     1 orb:   176
+Coupling    16 Frag:     1 orb:   181 and Frag:     2 orb:    23
+Coupling    17 Frag:     1 orb:   181 and Frag:     2 orb:    22
+Coupling    18 Frag:     1 orb:   181 and Frag:     2 orb:    21
+Coupling    19 Frag:     1 orb:   181 and Frag:     2 orb:    20
+Coupling    20 Frag:     1 orb:   180 and Frag:     1 orb:   179
+Coupling    21 Frag:     1 orb:   180 and Frag:     1 orb:   178
+Coupling    22 Frag:     1 orb:   180 and Frag:     1 orb:   177
+Coupling    23 Frag:     1 orb:   180 and Frag:     1 orb:   176
+Coupling    24 Frag:     1 orb:   180 and Frag:     2 orb:    23
+Coupling    25 Frag:     1 orb:   180 and Frag:     2 orb:    22
+Coupling    26 Frag:     1 orb:   180 and Frag:     2 orb:    21
+Coupling    27 Frag:     1 orb:   180 and Frag:     2 orb:    20
+Coupling    28 Frag:     1 orb:   179 and Frag:     1 orb:   178
+Coupling    29 Frag:     1 orb:   179 and Frag:     1 orb:   177
+Coupling    30 Frag:     1 orb:   179 and Frag:     1 orb:   176
+Coupling    31 Frag:     1 orb:   179 and Frag:     2 orb:    23
+Coupling    32 Frag:     1 orb:   179 and Frag:     2 orb:    22
+Coupling    33 Frag:     1 orb:   179 and Frag:     2 orb:    21
+Coupling    34 Frag:     1 orb:   179 and Frag:     2 orb:    20
+Coupling    35 Frag:     1 orb:   178 and Frag:     1 orb:   177
+Coupling    36 Frag:     1 orb:   178 and Frag:     1 orb:   176
+Coupling    37 Frag:     1 orb:   178 and Frag:     2 orb:    23
+Coupling    38 Frag:     1 orb:   178 and Frag:     2 orb:    22
+Coupling    39 Frag:     1 orb:   178 and Frag:     2 orb:    21
+Coupling    40 Frag:     1 orb:   178 and Frag:     2 orb:    20
+Coupling    41 Frag:     1 orb:   177 and Frag:     1 orb:   176
+Coupling    42 Frag:     1 orb:   177 and Frag:     2 orb:    23
+Coupling    43 Frag:     1 orb:   177 and Frag:     2 orb:    22
+Coupling    44 Frag:     1 orb:   177 and Frag:     2 orb:    21
+Coupling    45 Frag:     1 orb:   177 and Frag:     2 orb:    20
+Coupling    46 Frag:     1 orb:   176 and Frag:     2 orb:    23
+Coupling    47 Frag:     1 orb:   176 and Frag:     2 orb:    22
+Coupling    48 Frag:     1 orb:   176 and Frag:     2 orb:    21
+Coupling    49 Frag:     1 orb:   176 and Frag:     2 orb:    20
+Coupling    50 Frag:     2 orb:    23 and Frag:     2 orb:    22
+Coupling    51 Frag:     2 orb:    23 and Frag:     2 orb:    21
+Coupling    52 Frag:     2 orb:    23 and Frag:     2 orb:    20
+Coupling    53 Frag:     2 orb:    22 and Frag:     2 orb:    21
+Coupling    54 Frag:     2 orb:    22 and Frag:     2 orb:    20
+Coupling    55 Frag:     2 orb:    21 and Frag:     2 orb:    20
+  
+ **********************************************************************
+  
+ HAPPY END :)
